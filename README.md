@@ -1,2 +1,2 @@
-# Heart-Disease-Prediction
-:heart: ML model to predict heart disease possibility of a patient based on his medical attributes
+# Cardio-Disease-Prediction
+:heart: Machine Learning model to predict cardio disease possibilities of a patient based on his medical conditions
